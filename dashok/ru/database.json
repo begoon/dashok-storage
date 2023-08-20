@@ -3949,6 +3949,100 @@
       "audio": "bot/Домик_клетка.m4a"
     }
   ],
+  "rages": [
+      {
+          "name": "Бешусь 15",
+          "image": "content/rage/Бешусь_15.gif",
+      },
+      {
+          "name": "Бешусь 14",
+          "image": "content/rage/Бешусь_14.gif",
+      },
+      {
+          "name": "Бешусь 16",
+          "image": "content/rage/Бешусь_16.gif",
+      },
+      {
+          "name": "Бешусь 17",
+          "image": "content/rage/Бешусь_17.gif",
+      },
+      {
+          "name": "Бешусь 13",
+          "image": "content/rage/Бешусь_13.gif",
+      },
+      {
+          "name": "Бешусь 12",
+          "image": "content/rage/Бешусь_12.gif",
+      },
+      {
+          "name": "Бешусь 10",
+          "image": "content/rage/Бешусь_10.gif",
+      },
+      {
+          "name": "Бешусь 11",
+          "image": "content/rage/Бешусь_11.gif",
+      },
+      {
+          "name": "Бешусь 8",
+          "image": "content/rage/Бешусь_8.gif",
+      },
+      {
+          "name": "Бешусь 9",
+          "image": "content/rage/Бешусь_9.gif",
+      },
+      {
+          "name": "Бешусь 7",
+          "image": "content/rage/Бешусь_7.gif",
+      },
+      {
+          "name": "Бешусь 6",
+          "image": "content/rage/Бешусь_6.gif",
+      },
+      {
+          "name": "Бешусь 4",
+          "image": "content/rage/Бешусь_4.gif",
+      },
+      {
+          "name": "Бешусь 5",
+          "image": "content/rage/Бешусь_5.gif",
+      },
+      {
+          "name": "Бешусь 1",
+          "image": "content/rage/Бешусь_1.gif",
+      },
+      {
+          "name": "Бешусь 2",
+          "image": "content/rage/Бешусь_2.gif",
+      },
+      {
+          "name": "Бешусь 3",
+          "image": "content/rage/Бешусь_3.gif",
+      },
+      {
+          "name": "Бешусь 20",
+          "image": "content/rage/Бешусь_20.gif",
+      },
+      {
+          "name": "Бешусь 21",
+          "image": "content/rage/Бешусь_21.gif",
+      },
+      {
+          "name": "Бешусь 23",
+          "image": "content/rage/Бешусь_23.gif",
+      },
+      {
+          "name": "Бешусь 22",
+          "image": "content/rage/Бешусь_22.gif",
+      },
+      {
+          "name": "Бешусь 19",
+          "image": "content/rage/Бешусь_19.gif",
+      },
+      {
+          "name": "Бешусь 18",
+          "image": "content/rage/Бешусь_18.gif",
+      },
+  ],  
   "punishments": [
     {
       "name": "Наказать 4",
