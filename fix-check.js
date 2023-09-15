@@ -27,3 +27,6 @@ buckets.forEach((bucket) => {
             `ru_letters.length !== uk_letters.length for bucket ${bucket}`
         );
 });
+
+if (uk.situations.length !== ru.situations.length)
+    throw new Error("uk.situations.length !== ru.situations.length");
