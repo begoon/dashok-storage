@@ -11,3 +11,19 @@ if (uk.predictions.length !== ru.predictions.length)
 
 if (uk.reminders.length !== ru.reminders.length)
     throw new Error("uk.reminders.length !== ru.reminders.length");
+
+if (uk.letters.length !== ru.letters.length)
+    throw new Error("uk.letters.length !== ru.letters.length");
+
+const buckets = [...new Set(ru.letters.map((l) => l.bucket))];
+console.log(buckets);
+
+buckets.forEach((bucket) => {
+    const ru_letters = ru.letters.filter((l) => l.bucket === bucket);
+    const uk_letters = uk.letters.filter((l) => l.bucket === bucket);
+
+    if (ru_letters.length !== uk_letters.length)
+        throw new Error(
+            `ru_letters.length !== uk_letters.length for bucket ${bucket}`
+        );
+});
