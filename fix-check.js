@@ -8,3 +8,6 @@ if (uk.advices.length !== ru.advices.length)
 
 if (uk.predictions.length !== ru.predictions.length)
     throw new Error("uk.predictions.length !== ru.predictions.length");
+
+if (uk.reminders.length !== ru.reminders.length)
+    throw new Error("uk.reminders.length !== ru.reminders.length");
