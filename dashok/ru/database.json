@@ -6119,99 +6119,123 @@
     "mantra_images": [
         {
             "name": "8",
-            "image": "content/mantra/8.jpg"
+            "image": "content/mantra/8.png"
         },
         {
             "name": "9",
-            "image": "content/mantra/9.jpg"
+            "image": "content/mantra/9.png"
         },
         {
             "name": "14",
-            "image": "content/mantra/14.jpg"
+            "image": "content/mantra/14.png"
         },
         {
             "name": "15",
-            "image": "content/mantra/15.jpg"
+            "image": "content/mantra/15.png"
         },
         {
             "name": "17",
-            "image": "content/mantra/17.jpg"
+            "image": "content/mantra/17.png"
         },
         {
             "name": "16",
-            "image": "content/mantra/16.jpg"
+            "image": "content/mantra/16.png"
         },
         {
             "name": "12",
-            "image": "content/mantra/12.jpg"
+            "image": "content/mantra/12.png"
         },
         {
             "name": "13",
-            "image": "content/mantra/13.jpg"
+            "image": "content/mantra/13.png"
         },
         {
             "name": "11",
-            "image": "content/mantra/11.jpg"
+            "image": "content/mantra/11.png"
         },
         {
             "name": "10",
-            "image": "content/mantra/10.jpg"
+            "image": "content/mantra/10.png"
         },
         {
             "name": "21",
-            "image": "content/mantra/21.jpg"
+            "image": "content/mantra/21.png"
         },
         {
             "name": "20",
-            "image": "content/mantra/20.jpg"
+            "image": "content/mantra/20.png"
         },
         {
             "name": "22",
-            "image": "content/mantra/22.jpg"
+            "image": "content/mantra/22.png"
         },
         {
             "name": "23",
-            "image": "content/mantra/23.jpg"
-        },
-        {
-            "name": "18",
-            "image": "content/mantra/18.jpg"
+            "image": "content/mantra/23.png"
         },
         {
             "name": "24",
-            "image": "content/mantra/24.jpg"
+            "image": "content/mantra/24.png"
+        },
+        {
+            "name": "25",
+            "image": "content/mantra/25.png"
+        },
+        {
+            "name": "26",
+            "image": "content/mantra/26.png"
+        },
+        {
+            "name": "27",
+            "image": "content/mantra/27.png"
+        },
+        {
+            "name": "28",
+            "image": "content/mantra/28.png"
+        },
+        {
+            "name": "29",
+            "image": "content/mantra/29.png"
+        },
+        {
+            "name": "18",
+            "image": "content/mantra/18.png"
+        },
+        {
+            "name": "24",
+            "image": "content/mantra/24.png"
         },
         {
             "name": "19",
-            "image": "content/mantra/19.jpg"
+            "image": "content/mantra/19.png"
         },
         {
             "name": "4",
-            "image": "content/mantra/4.jpg"
+            "image": "content/mantra/4.png"
         },
         {
             "name": "5",
-            "image": "content/mantra/5.jpg"
+            "image": "content/mantra/5.png"
         },
         {
             "name": "7",
-            "image": "content/mantra/7.jpg"
+            "image": "content/mantra/7.png"
         },
         {
             "name": "6",
-            "image": "content/mantra/6.jpg"
+            "image": "content/mantra/6.png"
         },
         {
             "name": "2",
-            "image": "content/mantra/2.jpg"
+            "image": "content/mantra/2.png"
         },
         {
             "name": "3",
-            "image": "content/mantra/3.jpg"
+            "image": "content/mantra/3.png"
         },
         {
             "name": "1",
-            "image": "content/mantra/1.jpg"
+            "image": "content/mantra/1.png"
         }
     ],
     "assignments": [
