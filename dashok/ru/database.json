@@ -6941,15 +6941,15 @@
     "links": [
         {
             "name": "femosofia.com",
-            "url": "https://femosofia.com"
+            "url": "https://freemynd.io/"
         },
         {
             "name": "Тесты",
-            "url": "https://femosofia.com/femotests/"
+            "url": "https://freemynd.io/freemyndtests/"
         },
         {
             "name": "Продукты",
-            "url": "https://femosofia.com/product_theme/%s"
+            "url": "https://freemynd.io/product_theme/%s"
         }
     ],
     "states": [
