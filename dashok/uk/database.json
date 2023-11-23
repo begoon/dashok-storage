@@ -1970,7 +1970,7 @@
         {
             "owner": "О боте",
             "name": "Перейти",
-            "text": "https://freemynd.io"
+            "text": "https://freemynd.io/ua/"
         },
         {
             "owner": "Аптечка",
@@ -6913,8 +6913,8 @@
     ],
     "links": [
         {
-            "name": "femosofia.com",
-            "url": "https://freemynd.io/"
+            "name": "freemynd.io",
+            "url": "https://freemynd.io/ua/"
         },
         {
             "name": "Тесты",
@@ -7059,7 +7059,7 @@
             "jumps": [
                 [
                     "Перейти",
-                    "https://femosofia.com"
+                    "https://freemynd.io/ua/"
                 ],
                 [
                     "Вернуться на ввод кода",
